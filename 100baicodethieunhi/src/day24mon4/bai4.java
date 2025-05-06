@@ -9,7 +9,7 @@ public class bai4 extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
-        ImageIcon imageIcon = new ImageIcon("C:\\Users\\19nov\\Downloads");
+        ImageIcon imageIcon = new ImageIcon("d5372293e271502f0960.jpg");
 
         JLabel label = new JLabel(imageIcon);
         add(label);
